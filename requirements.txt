@@ -1,0 +1,4 @@
+requests>=2.31.0
+xmltodict>=0.13.0
+jmespath>=1.0.1
+netaddr>=1.2.0

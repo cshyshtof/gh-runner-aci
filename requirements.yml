@@ -1,0 +1,5 @@
+---
+collections:
+  - name: cisco.aci
+    version: 2.12.0
+
